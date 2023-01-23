@@ -15,6 +15,9 @@ Using the np.linalg.matrix_rank(), we can find the rank of the given matrix.
 printing the result
 ## Program:
 ```py
+# RANK-OF-A-MATRIX
+# Developed by: B.Bharathraj
+# Reference number: 22008848
 import numpy as np
 a=np.array([[3,2,5],[1,1,2],[3,3,6]])
 b=np.linalg.matrix_rank(a)
