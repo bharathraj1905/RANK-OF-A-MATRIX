@@ -16,7 +16,7 @@ printing the result
 ## Program:
 ```py
 # RANK-OF-A-MATRIX
-# Developed by: B.Bharathraj
+# Developed by: B.Barathraj
 # Reference number: 22008848
 import numpy as np
 a=np.array([[3,2,5],[1,1,2],[3,3,6]])
